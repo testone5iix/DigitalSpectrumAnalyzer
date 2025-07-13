@@ -181,9 +181,6 @@ Note: Scores below 85% indicate significantly different devices.
 ## Disclaimer
 This tool is intended for **research and forensic laboratory use only**. It should not be relied upon as sole legal evidence without expert human analysis. Use at your own risk.
 
-## License
-Licensed under the [MIT License](LICENSE). Free to use, modify, and distribute with proper attribution.
-
 ## Contributing
 Contributions are welcome! To contribute:
 1. Fork the repository.
