@@ -41,7 +41,7 @@ pip install scapy
 ### Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone (https://github.com/testone5iix/DigitalSpectrumAnalyzer.git)
+   git clone https://github.com/testone5iix/DigitalSpectrumAnalyzer.git
    cd digital-spectrum-analyzer
    ```
 2. Install Python dependencies as shown above.
