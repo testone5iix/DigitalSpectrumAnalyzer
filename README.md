@@ -42,7 +42,7 @@ pip install scapy
 1. Clone the repository:
    ```bash
    git clone https://github.com/testone5iix/DigitalSpectrumAnalyzer.git
-   cd digital-spectrum-analyzer
+   cd DigitalSpectrumAnalyzer
    ```
 2. Install Python dependencies as shown above.
 3. Ensure ADB and libimobiledevice are installed and accessible in your system PATH for mobile device support.
