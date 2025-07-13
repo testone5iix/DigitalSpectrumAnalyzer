@@ -193,4 +193,4 @@ Contributions are welcome! To contribute:
 We encourage contributions to add new features, improve performance, or support additional platforms.
 
 ## Contact
-For issues or inquiries, please open an issue on the GitHub repository or contact the maintainers at [telegram](htps://t.me/venom5iix).
+For issues or inquiries, please open an issue on the GitHub repository or contact the maintainers at [.telegram](htps://t.me/venom5iix)
